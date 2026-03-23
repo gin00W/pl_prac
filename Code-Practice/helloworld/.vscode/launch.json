@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/z/Desktop/Lecture/PL/Code-Practice/helloworld",
+      "program": "/Users/z/Desktop/Lecture/PL/Code-Practice/helloworld/build/Debug/outDebug"
+    }
+  ]
+}
